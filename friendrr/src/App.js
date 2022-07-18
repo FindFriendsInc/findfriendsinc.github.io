@@ -12,10 +12,10 @@ function App() {
       <Navigationbar />
       <HashRouter basename={process.env.PUBLIC_URL}>
         <Routes>
-          <Route path="/" element={<Homepage/>}></Route>
-          <Route path="/about" element={<Aboutpage/>}></Route>
-          <Route path="/documentation" element={<Docspage/>}></Route>
-          <Route path="/demo" element={<Demopage/>}></Route>
+          <Route path="#/" element={<Homepage/>}></Route>
+          <Route path="#/about" element={<Aboutpage/>}></Route>
+          <Route path="#/documentation" element={<Docspage/>}></Route>
+          <Route path="#/demo" element={<Demopage/>}></Route>
         </Routes>
       </HashRouter>
     </div>
