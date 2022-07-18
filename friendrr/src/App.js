@@ -12,10 +12,10 @@ function App() {
       <Navigationbar />
       <BrowserRouter>
         <Routes>
-          <Route path="findfriendsinc.github.io/" element={<Homepage/>}></Route>
-          <Route path="findfriendsinc.github.io/about" element={<Aboutpage/>}></Route>
-          <Route path="findfriendsinc.github.io/documentation" element={<Docspage/>}></Route>
-          <Route path="findfriendsinc.github.io/demo" element={<Demopage/>}></Route>
+          <Route path="/" element={<Homepage/>}></Route>
+          <Route path="/about" element={<Aboutpage/>}></Route>
+          <Route path="/documentation" element={<Docspage/>}></Route>
+          <Route path="/demo" element={<Demopage/>}></Route>
         </Routes>
       </BrowserRouter>
       
