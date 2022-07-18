@@ -1,7 +1,7 @@
 {
   "name": "friendrr",
   "version": "0.1.0",
-  "homepage": "https://FindFriendsInc.github.io/findfriendsinc.github.io/",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
