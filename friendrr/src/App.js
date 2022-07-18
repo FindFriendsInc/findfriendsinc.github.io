@@ -12,10 +12,10 @@ function App() {
       <Navigationbar />
       <HashRouter>
         <Routes>
-          <Route path="/" element={<Homepage/>}></Route>
-          <Route path="/about" element={<Aboutpage/>}></Route>
-          <Route path="/documentation" element={<Docspage/>}></Route>
-          <Route path="/demo" element={<Demopage/>}></Route>
+          <Route path="https://findfriendsinc.github.io/" element={<Homepage/>}></Route>
+          <Route path="https://findfriendsinc.github.io/about" element={<Aboutpage/>}></Route>
+          <Route path="https://findfriendsinc.github.io/documentation" element={<Docspage/>}></Route>
+          <Route path="https://findfriendsinc.github.io/demo" element={<Demopage/>}></Route>
         </Routes>
       </HashRouter>
     </div>
