@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/findfriendsinc.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/findfriendsinc.github.io/static/js/main.ce987ce7.js",
+    "static/js/787.9b1ea5e4.chunk.js": "/findfriendsinc.github.io/static/js/787.9b1ea5e4.chunk.js",
+    "static/media/logo.svg": "/findfriendsinc.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/findfriendsinc.github.io/index.html",
+    "main.073c9b0a.css.map": "/findfriendsinc.github.io/static/css/main.073c9b0a.css.map",
+    "main.ce987ce7.js.map": "/findfriendsinc.github.io/static/js/main.ce987ce7.js.map",
+    "787.9b1ea5e4.chunk.js.map": "/findfriendsinc.github.io/static/js/787.9b1ea5e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ce987ce7.js"
+  ]
+}
