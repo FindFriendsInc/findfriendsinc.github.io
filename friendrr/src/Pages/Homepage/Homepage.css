@@ -1,10 +1,16 @@
 .homepage-container {
     background-color: rgb(248,249,250);
     padding: 2%;
-    height: 90%;
+    min-height: 90%;
 }
 
 .homepage-btn {
     min-width: 170px;
     margin: 1%;
+}
+
+.homepage-desc {
+    width: 60%;
+    padding: 4%;
+    margin: auto;
 }
