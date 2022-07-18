@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/findfriendsinc.github.io/static/css/main.adb140b4.css",
-    "main.js": "/findfriendsinc.github.io/static/js/main.8f33bf5f.js",
-    "static/js/787.9b1ea5e4.chunk.js": "/findfriendsinc.github.io/static/js/787.9b1ea5e4.chunk.js",
-    "index.html": "/findfriendsinc.github.io/index.html",
-    "main.adb140b4.css.map": "/findfriendsinc.github.io/static/css/main.adb140b4.css.map",
-    "main.8f33bf5f.js.map": "/findfriendsinc.github.io/static/js/main.8f33bf5f.js.map",
-    "787.9b1ea5e4.chunk.js.map": "/findfriendsinc.github.io/static/js/787.9b1ea5e4.chunk.js.map"
+    "main.css": "/static/css/main.adb140b4.css",
+    "main.js": "/static/js/main.eb67edcf.js",
+    "static/js/787.9b1ea5e4.chunk.js": "/static/js/787.9b1ea5e4.chunk.js",
+    "index.html": "/index.html",
+    "main.adb140b4.css.map": "/static/css/main.adb140b4.css.map",
+    "main.eb67edcf.js.map": "/static/js/main.eb67edcf.js.map",
+    "787.9b1ea5e4.chunk.js.map": "/static/js/787.9b1ea5e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adb140b4.css",
-    "static/js/main.8f33bf5f.js"
+    "static/js/main.eb67edcf.js"
   ]
 }
