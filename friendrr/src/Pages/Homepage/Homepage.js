@@ -12,7 +12,7 @@ const Homepage = () => {
     return (
         <div className="homepage-container">
             <h1>Friendrr</h1>
-            <h6>Finding friends can be hard, but we got you covered!</h6>
+            <h6>Finding friends can be hard, but we've got you covered!</h6>
             <Button className="homepage-btn"><FontAwesomeIcon icon={faGithub}/> View Project</Button>
             <Button className="homepage-btn"><FontAwesomeIcon icon={faFolder}/> Download APK</Button>
 
