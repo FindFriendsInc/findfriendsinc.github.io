@@ -1,5 +1,17 @@
 .demopage-container {
     background-color: rgb(248,249,250);
+    padding: 5%;
+    min-height: 90%;
+    width: 100%;
+}
+
+.demopage-desc {
     padding: 2%;
-    height: 90%;
+    width: 60%;
+    margin: auto;
+}
+
+.demopage-vid {
+    width: 40%;
+    height: 355px;
 }
