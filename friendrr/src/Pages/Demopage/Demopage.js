@@ -5,7 +5,9 @@ const Demopage = () => {
 
     return (
         <div className="demopage-container">
-            <h1>Demo page coming soon!</h1>
+            <h1 className="demopage-desc">Check out this video demonstration of the Friendrr app!</h1>
+            <iframe className="demopage-vid" src="https://www.youtube.com/embed/EE-xtCF3T94" title="YouTube video player" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     )
 }

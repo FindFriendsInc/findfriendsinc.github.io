@@ -6,7 +6,7 @@ import "./Navigationbar.css";
 const Navigationbar = () => {
 
     return (
-        <Navbar id="nav-bar" className="p-3" collapseOnSelect expand="lg" bg="light" variant="light">
+        <Navbar id="nav-bar" className="p-3" collapseOnSelect expand="lg" bg="dark" variant="dark">
             <Navbar.Brand href="/#/" className="mx-4">FindFriendsInc</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" className="mx-4"/>
             <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end mx-4">
