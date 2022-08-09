@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.466aa043.css",
-    "main.js": "./static/js/main.1d664415.js",
+    "main.js": "./static/js/main.157521ea.js",
     "static/js/787.9b1ea5e4.chunk.js": "./static/js/787.9b1ea5e4.chunk.js",
-    "static/media/friendrr.apk": "./static/media/friendrr.7fa3a93bf86043c9b4b3.apk",
+    "static/media/friendrr.zip": "./static/media/friendrr.bbd73945906a82d8f448.zip",
+    "static/media/friendrr.apk": "./static/media/friendrr.3e1a10124bd893dee8fb.apk",
+    "static/media/cmpt_362_final_presentation.pdf": "./static/media/cmpt_362_final_presentation.741ecba731ec53fd946e.pdf",
     "static/media/system_architecture.png": "./static/media/system_architecture.07c3afe613ae82dc9170.png",
-    "static/media/system_architecture2.zip": "./static/media/system_architecture2.34fad22bdac79279106c.zip",
     "static/media/thread_diagram.PNG": "./static/media/thread_diagram.55f9a551f837f1782a40.PNG",
     "index.html": "./index.html",
     "main.466aa043.css.map": "./static/css/main.466aa043.css.map",
-    "main.1d664415.js.map": "./static/js/main.1d664415.js.map",
+    "main.157521ea.js.map": "./static/js/main.157521ea.js.map",
     "787.9b1ea5e4.chunk.js.map": "./static/js/787.9b1ea5e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.466aa043.css",
-    "static/js/main.1d664415.js"
+    "static/js/main.157521ea.js"
   ]
 }
