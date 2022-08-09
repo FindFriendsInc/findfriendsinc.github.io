@@ -6,13 +6,73 @@
 }
 
 .docspage-desc {
-    padding: 2%;
+    padding: 5% 0% 1% 0%;
     width: 60%;
     margin: auto;
 }
 
-.docspage-figma {
+.docspage-figma-container {
+    position: relative;
     width: 80%;
-    min-height: 600px;
+    overflow: hidden;
+    padding-top: 56.25%;
     margin: auto;
+}
+
+.docspage-figma-desc {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.docspage-figma-design {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+
+}
+
+.docspage-images {
+    width: 80%;
+    height: auto;
+}
+
+.docspage-download-links {
+    margin-bottom: 5%;
+}
+
+.docspage-download-link {
+    padding: 5px 15px 5px 15px;
+    display: inline-block;
+    font-size: large;
+}
+
+.docspage-download-link:link {
+    color: #212529;
+    text-decoration: none;
+}
+  
+.docspage-download-link:visited {
+    color: #212529;
+    text-decoration: none;
+}
+  
+.docspage-download-link:hover {
+    color: blue;
+    text-decoration: underline;
+}
+  
+.docspage-download-link:active {
+    color: red;
+    text-decoration: underline;
 }

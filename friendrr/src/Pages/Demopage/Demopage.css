@@ -1,17 +1,51 @@
 .demopage-container {
     background-color: rgb(248,249,250);
-    padding: 5%;
+    padding: 4%;
     min-height: 90%;
     width: 100%;
 }
 
-.demopage-desc {
-    padding: 2%;
-    width: 60%;
+.demopage-video-container {
+    position: relative;
+    width: 80%;
+    overflow: hidden;
+    padding-top: 56.25%;
     margin: auto;
 }
 
-.demopage-vid {
-    width: 40%;
-    height: 355px;
+.demopage-video {
+    position: absolute;
+    top: 10%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 75%;
+
+}
+
+.video-link {
+    padding: 5px 15px 5px 15px;
+    display: inline-block;
+    font-size: large;
+}
+
+.video-link:link {
+    color: #212529;
+    text-decoration: none;
+}
+  
+.video-link:visited {
+    color: #212529;
+    text-decoration: none;
+}
+  
+.video-link:hover {
+    color: blue;
+    text-decoration: underline;
+}
+  
+.video-link:active {
+    color: red;
+    text-decoration: underline;
 }

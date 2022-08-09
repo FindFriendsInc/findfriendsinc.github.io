@@ -1,27 +1,14 @@
 .aboutpage-container {
     background-color: rgb(248,249,250);
-    padding: 5%;
+    padding: 1%;
     min-height: 90%;
     width: 100%;
 }
 
 .aboutpage-desc {
-    width: 60%;
+    width: 80%;
+    padding-top: 20px;
     margin: auto;
-}
-
-.aboutpage-problem {
-    display: inline-block;
-    vertical-align: top;
-    width: 40%;
-    padding: 2%;
-}
-
-.aboutpage-solution {
-    display: inline-block;
-    vertical-align: top;
-    width: 40%;
-    padding: 2%;
 }
 
 ul {
@@ -34,8 +21,29 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    width: 85%;
+    margin: auto;
 }
 
-.aboutpage-person {
-    padding: 1% 2%;
+@media only screen and (min-width: 1px) {
+    .aboutpage-person {
+        flex: 1 0 50%; /* explanation below */
+        margin: 5% 2%;
+    }
+}
+
+
+@media only screen and (min-width: 660px) {
+    .aboutpage-person {
+        flex: 1 0 40%; /* explanation below */
+        margin: 5% 2%;
+    }
+}
+
+
+@media only screen and (min-width: 1000px) {
+    .aboutpage-person {
+        flex: 1 0 25%; /* explanation below */
+        margin: 2% 2%;
+    }
 }
